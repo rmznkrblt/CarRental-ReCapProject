@@ -1,0 +1,248 @@
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.exe
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.deps.json
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.json
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.dev.json
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.pdb
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Business.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Business.pdb
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.pdb
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csprojAssemblyReference.cache
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CopyComplete
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
+G:\Project\c# project\GitHub\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.exe
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.deps.json
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.json
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.dev.json
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.pdb
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Business.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Business.pdb
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.pdb
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csprojAssemblyReference.cache
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CopyComplete
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.exe
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.deps.json
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.json
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.dev.json
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.pdb
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Business.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Business.pdb
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.pdb
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csprojAssemblyReference.cache
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CopyComplete
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csprojAssemblyReference.cache
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.exe
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.deps.json
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.json
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.dev.json
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.pdb
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Business.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Business.pdb
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.pdb
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CopyComplete
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache

@@ -1,0 +1,56 @@
+G:\Project\c# project\GitHub\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+G:\Project\c# project\GitHub\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+G:\Project\c# project\GitHub\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+G:\Project\c# project\GitHub\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+G:\Project\c# project\GitHub\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+G:\Project\c# project\GitHub\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+G:\Project\c# project\GitHub\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+G:\Project\c# project\GitHub\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+G:\Project\c# project\GitHub\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+G:\Project\c# project\GitHub\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+G:\Project\c# project\GitHub\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+G:\Project\c# project\GitHub\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+G:\Project\c# project\GitHub\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Core.dll
+G:\Project\c# project\GitHub\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+G:\Project\c# project\GitHub\CarRental-ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+G:\Project\c# project\GitHub\CarRental-ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+G:\Project\c# project\GitHub\CarRental-ReCapProject\DataAccess\bin\Debug\netstandard2.0\Core.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+G:\Project\c# project\GitHub\CarRental-ReCapProject\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+G:\Project\c# project\GitHub\CarRental-ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+G:\Project\c# project\GitHub\CarRental-ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+G:\Project\c# project\GitHub\CarRental-ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+G:\Project\c# project\GitHub\CarRental-ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+G:\Project\c# project\GitHub\CarRental-ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+G:\Project\c# project\GitHub\CarRental-ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\DataAccess\bin\Debug\netstandard2.0\Core.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+G:\Project\c# project\GitHub\CampingProjects\9. Hafta\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\DataAccess\bin\Debug\netstandard2.0\Core.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+G:\Project\c# project\GitHub\CampingProjects\10. Hafta\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
