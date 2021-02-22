@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tVSsnYkFEal5u/TusOoHKZUH4raqqwodnErnkoAPHLPCAc7MgLIs3CvKEv2WnkECWH2pxlmX1AZs7x9KNzXPGg==",
+  "dgSpecHash": "2bV6VfyzC0pSpgS2jy2wKFMLyc+IMcuFhJ7h2TP0gBFLK6cQgkql0flf2vg/LWreiwFTi8ymOUEoIFLM1OGQLQ==",
   "success": true,
-  "projectFilePath": "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\Entities\\Entities.csproj",
+  "projectFilePath": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ramazan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Ramazan\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

@@ -5679,11 +5679,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\Ramazan\\.nuget\\packages\\",
-      "outputPath": "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\ConsoleUI\\obj\\",
+      "outputPath": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5703,8 +5703,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\Business\\Business.csproj": {
-              "projectPath": "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\Business\\Business.csproj"
+            "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Business\\Business.csproj": {
+              "projectPath": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Business\\Business.csproj"
             }
           }
         }

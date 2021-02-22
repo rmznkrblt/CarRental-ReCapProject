@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\Core\\Core.csproj": {}
+    "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Core\\Core.csproj": {}
   },
   "projects": {
-    "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\Core\\Core.csproj": {
+    "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\Core\\Core.csproj",
+        "projectUniqueName": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\Core\\Core.csproj",
+        "projectPath": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Ramazan\\.nuget\\packages\\",
-        "outputPath": "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\Core\\obj\\",
+        "outputPath": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

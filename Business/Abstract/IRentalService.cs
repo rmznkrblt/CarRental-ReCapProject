@@ -10,7 +10,6 @@ namespace Business.Abstract
 {
     public interface IRentalService
     {
-        //IDataResult<List<Rental>> Get(Expression<Func<Rental,bool>> filter=null);
         IDataResult<List<RentalDetailDto>> GetRentalDetails();
         IDataResult<List<Rental>> GetAll();
         IResult Add(Rental rental);

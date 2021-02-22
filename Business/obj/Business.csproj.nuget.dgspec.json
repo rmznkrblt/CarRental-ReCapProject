@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\Business\\Business.csproj": {}
+    "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Business\\Business.csproj": {}
   },
   "projects": {
-    "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\Business\\Business.csproj": {
+    "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\Business\\Business.csproj",
+        "projectUniqueName": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\Business\\Business.csproj",
+        "projectPath": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\Ramazan\\.nuget\\packages\\",
-        "outputPath": "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\Business\\obj\\",
+        "outputPath": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,11 +31,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\DataAccess\\DataAccess.csproj"
+              "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\DataAccess\\DataAccess.csproj"
               },
-              "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\Entities\\Entities.csproj": {
-                "projectPath": "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\Entities\\Entities.csproj"
+              "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Entities\\Entities.csproj": {
+                "projectPath": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\Core\\Core.csproj": {
+    "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\Core\\Core.csproj",
+        "projectUniqueName": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\Core\\Core.csproj",
+        "projectPath": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Ramazan\\.nuget\\packages\\",
-        "outputPath": "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\Core\\obj\\",
+        "outputPath": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -135,14 +135,14 @@
         }
       }
     },
-    "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\DataAccess\\DataAccess.csproj": {
+    "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\DataAccess\\DataAccess.csproj",
+        "projectPath": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Ramazan\\.nuget\\packages\\",
-        "outputPath": "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\DataAccess\\obj\\",
+        "outputPath": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -162,8 +162,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\Entities\\Entities.csproj": {
-                "projectPath": "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\Entities\\Entities.csproj"
+              "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Entities\\Entities.csproj": {
+                "projectPath": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -203,14 +203,14 @@
         }
       }
     },
-    "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\Entities\\Entities.csproj": {
+    "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\Entities\\Entities.csproj",
+        "projectUniqueName": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\Entities\\Entities.csproj",
+        "projectPath": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Ramazan\\.nuget\\packages\\",
-        "outputPath": "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\Entities\\obj\\",
+        "outputPath": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -230,8 +230,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\Core\\Core.csproj": {
-                "projectPath": "G:\\Project\\c# project\\GitHub\\CampingProjects\\10. Hafta\\Core\\Core.csproj"
+              "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Core\\Core.csproj": {
+                "projectPath": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Core\\Core.csproj"
               }
             }
           }
