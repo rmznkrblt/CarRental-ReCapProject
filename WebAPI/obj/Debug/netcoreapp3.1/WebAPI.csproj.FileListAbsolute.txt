@@ -66,3 +66,8 @@ G:\Project\c# project\GitHub\CarRental-ReCapProject\WebAPI\bin\Debug\netcoreapp3
 G:\Project\c# project\GitHub\CarRental-ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\DataAccess.dll
 G:\Project\c# project\GitHub\CarRental-ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Business.pdb
 G:\Project\c# project\GitHub\CarRental-ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+G:\Project\c# project\GitHub\CarRental-ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll

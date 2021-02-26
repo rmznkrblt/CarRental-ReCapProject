@@ -246,3 +246,7 @@ G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netco
 G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.pdb
 G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CopyComplete
 G:\Project\c# project\GitHub\CampingProjects\10. Hafta\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+G:\Project\c# project\GitHub\CarRental-ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\FluentValidation.dll
