@@ -6,6 +6,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using Business.Constans;
+using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofac.Validation;
 using Entities.DTOs;
 
 namespace Business.Concrete
@@ -30,6 +32,7 @@ namespace Business.Concrete
             return new SuccessDataResult<List<Rental>>(_rentalDal.GetAll(), Messages.InvalidMessage);
         }
 
+        [ValidationAspect(typeof(ColorValidator))]
         public IResult Add(Rental rental)
         {
             var result = GetRentalDetails().Data.SingleOrDefault(p => p.CarId == rental.CarId);

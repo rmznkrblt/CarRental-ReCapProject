@@ -25,11 +25,12 @@ namespace Business.Concrete
         {
             _color = color;
         }
-
+        [ValidationAspect(typeof(ColorValidator))]
         public IDataResult<List<Color>> GetAll()
         {
             return new SuccessDataResult<List<Color>>(_color.GetAll(),Messages.ValidMessage);
         }
+
 
         [ValidationAspect(typeof(ColorValidator))]
         public IResult Add(Color color)
@@ -37,13 +38,11 @@ namespace Business.Concrete
             _color.Add(color);
             return new SuccessResult(Messages.InvalidMessage);
         }
-
         public IResult Delete(Color color)
         {
             _color.Delete(color);
             return new SuccessResult(Messages.InvalidMessage);
         }
-
         public IResult Update(Color color)
         {
             _color.Update(color);

@@ -5,6 +5,8 @@ using System.Net.Http.Headers;
 using System.Text;
 using Business.Abstract;
 using Business.Constans;
+using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofac.Validation;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities.Concrete;
@@ -19,6 +21,7 @@ namespace Business.Concrete
         {
             _brand = brand;
         }
+        [ValidationAspect(typeof(ColorValidator))]
         public IResult Add(Brand brand)
         {
             _brand.Add(brand);

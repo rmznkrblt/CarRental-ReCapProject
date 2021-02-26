@@ -5,6 +5,8 @@ using System.Linq.Expressions;
 using System.Text;
 using Business.Abstract;
 using Business.Constans;
+using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofac.Validation;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities.Concrete;
@@ -45,15 +47,14 @@ namespace Business.Concrete
             return new SuccessDataResult<List<CarDetailDto>>(_cars.GetCarDetails(),Messages.InvalidMessage);
         }
 
+
+        [ValidationAspect(typeof(ColorValidator))]
         public IResult Add(Car car)
         {
-            if (car.Description.Length>2 && car.DailyPrice>0)
-            {
-                _cars.Add(car);
-                return new SuccessResult(Messages.ValidMessage);
-            }
-            return new ErrorResult(Messages.InvalidMessage);
-            
+
+            _cars.Add(car);
+            return new SuccessResult(Messages.ValidMessage);
+
         }
 
         public IResult Delete(Car car)

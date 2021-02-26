@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Text;
 using Business.Abstract;
 using Business.Constans;
+using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofac.Validation;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities.Concrete;
@@ -23,6 +25,7 @@ namespace Business.Concrete
             return new SuccessDataResult<List<Customer>>(_customer.GetAll(), Messages.ValidMessage);
         }
 
+        [ValidationAspect(typeof(ColorValidator))]
         public IResult Add(Customer customer)
         {
             _customer.Add(customer);
