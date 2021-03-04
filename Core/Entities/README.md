@@ -1,6 +1,6 @@
 Eğer bir class herhangi bir inheritance veya interface implementasyonu almıyorsa bu bize ilerde problem yaşatabilir ki proje büyüdükçe yaşatma ihtimali de yüksek. İlerde sorun yaşamamak için bu varlıklarımızı işaretleriz yani gruplandırma eğilimine gideriz.
 
-# IEntity 
+# [IEntity](https://github.com/rmznkrblt/CarRental-ReCapProject/blob/main/Core/Entities/IEntity.cs) 
 IEntity implement eden class bir veritabanı tablosudur.
 
 # IDto
