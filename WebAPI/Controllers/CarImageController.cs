@@ -51,7 +51,6 @@ namespace WebAPI.Controllers
                 var result = _carImageService.Add(new CarImage()
                 {
                     CarId = carId,
-                    Date = DateTime.Now,
                     ImagePath = filePath
                 });
 
@@ -61,20 +60,14 @@ namespace WebAPI.Controllers
                     {
                         imageFile.CopyTo(fileStream);
                     }
-
                     return Ok(result);
                 }
-
                 return BadRequest(result);
-
-
-
             }
             catch (Exception ex)
             {
                 return BadRequest(ex.Message);
             }
-
         }
 
         [HttpPost("Update")]
@@ -99,10 +92,8 @@ namespace WebAPI.Controllers
                 {
                     return Ok(result);
                 }
-
                 return BadRequest(result);
             }
-
             return BadRequest();
         }
 
