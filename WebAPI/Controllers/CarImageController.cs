@@ -45,7 +45,7 @@ namespace WebAPI.Controllers
                 {
                     fileName = Guid.NewGuid().ToString("N") + Path.GetExtension(imageFile.FileName);
                 }
-                fileName = "togg.png";
+                fileName = "Default car image.jpg";
                 string filePath = Path.Combine(Directory.GetCurrentDirectory(), imageDirectory, fileName);
 
                 var result = _carImageService.Add(new CarImage()
