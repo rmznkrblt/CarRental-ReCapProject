@@ -48,7 +48,7 @@ namespace Business.Concrete
         }
 
 
-        [ValidationAspect(typeof(ColorValidator))]
+        [ValidationAspect(typeof(CarValidator))]
         public IResult Add(Car car)
         {
 
@@ -67,6 +67,11 @@ namespace Business.Concrete
         {
             _cars.Update(car);
             return new SuccessResult(Messages.ValidMessage);
+        }
+
+        public IDataResult<Car> GetById(int id)
+        {
+            return new SuccessDataResult<Car>(_cars.Get(p => p.Id == id));
         }
     }
 }

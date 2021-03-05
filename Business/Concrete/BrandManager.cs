@@ -21,7 +21,7 @@ namespace Business.Concrete
         {
             _brand = brand;
         }
-        [ValidationAspect(typeof(ColorValidator))]
+        [ValidationAspect(typeof(BrandValidator))]
         public IResult Add(Brand brand)
         {
             _brand.Add(brand);

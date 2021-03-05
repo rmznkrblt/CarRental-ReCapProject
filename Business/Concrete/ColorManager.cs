@@ -13,7 +13,6 @@ using DataAccess.Abstract;
 using Entities.Concrete;
 using Entities.DTOs;
 using FluentValidation;
-using ValidationException = System.ComponentModel.DataAnnotations.ValidationException;
 
 namespace Business.Concrete
 {

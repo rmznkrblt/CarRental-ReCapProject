@@ -32,7 +32,7 @@ namespace Business.Concrete
             return new SuccessDataResult<List<Rental>>(_rentalDal.GetAll(), Messages.InvalidMessage);
         }
 
-        [ValidationAspect(typeof(ColorValidator))]
+        [ValidationAspect(typeof(RentalValidator))]
         public IResult Add(Rental rental)
         {
             var result = GetRentalDetails().Data.SingleOrDefault(p => p.CarId == rental.CarId);

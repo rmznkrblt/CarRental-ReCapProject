@@ -25,7 +25,7 @@ namespace Business.Concrete
             return new SuccessDataResult<List<Customer>>(_customer.GetAll(), Messages.ValidMessage);
         }
 
-        [ValidationAspect(typeof(ColorValidator))]
+        [ValidationAspect(typeof(CustomerValidator))]
         public IResult Add(Customer customer)
         {
             _customer.Add(customer);
