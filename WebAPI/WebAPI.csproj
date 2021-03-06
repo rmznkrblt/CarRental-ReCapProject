@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.11" />
   </ItemGroup>
 
   <ItemGroup>
@@ -14,7 +15,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="CarImages\" />
+    <Folder Include="wwwroot\CarImages\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\CarImages\DefaultImage.jpg" />
   </ItemGroup>
 
 

@@ -16,7 +16,7 @@ namespace WebAPI.Controllers
     {
         ICarImageService _carImageService;
 
-        protected readonly string imageDirectory = @"CarImages";
+        protected readonly string imageDirectory = @"wwwroot\CarImages";
 
         public CarImagesController(ICarImageService carImageService)
         {
@@ -45,12 +45,13 @@ namespace WebAPI.Controllers
                 {
                     fileName = Guid.NewGuid().ToString("N") + Path.GetExtension(imageFile.FileName);
                 }
-                fileName = "Default car image.jpg";
+                fileName = "DefaultImage.jpg";
                 string filePath = Path.Combine(Directory.GetCurrentDirectory(), imageDirectory, fileName);
 
                 var result = _carImageService.Add(new CarImage()
                 {
                     CarId = carId,
+                    Date = DateTime.Now,
                     ImagePath = filePath
                 });
 
@@ -60,14 +61,20 @@ namespace WebAPI.Controllers
                     {
                         imageFile.CopyTo(fileStream);
                     }
+
                     return Ok(result);
                 }
+
                 return BadRequest(result);
+
+
+
             }
             catch (Exception ex)
             {
                 return BadRequest(ex.Message);
             }
+
         }
 
         [HttpPost("Update")]
@@ -92,8 +99,10 @@ namespace WebAPI.Controllers
                 {
                     return Ok(result);
                 }
+
                 return BadRequest(result);
             }
+
             return BadRequest();
         }
 
