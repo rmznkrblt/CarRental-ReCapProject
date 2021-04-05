@@ -54,3 +54,17 @@ G:\Project\c# project\GitHub\CampingProjects\10. Hafta\DataAccess\bin\Debug\nets
 G:\Project\c# project\GitHub\CampingProjects\10. Hafta\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
 G:\Project\c# project\GitHub\CampingProjects\10. Hafta\DataAccess\bin\Debug\netstandard2.0\Core.pdb
 G:\Project\c# project\GitHub\CampingProjects\10. Hafta\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\DataAccess\bin\Debug\netstandard2.0\Core.dll
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb

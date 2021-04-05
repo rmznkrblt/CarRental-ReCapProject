@@ -14,13 +14,5 @@
     <ProjectReference Include="..\Entities\Entities.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="wwwroot\CarImages\" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="wwwroot\CarImages\DefaultImage.jpg" />
-  </ItemGroup>
-
 
 </Project>

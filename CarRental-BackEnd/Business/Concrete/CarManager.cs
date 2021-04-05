@@ -39,12 +39,12 @@ namespace Business.Concrete
             //{
             //    return new ErrorDataResult<List<Car>>(Messages.MaintenanceTime);
             //}
-            return new DataResult<List<Car>>(_cars.GetAll(),true,Messages.InvalidMessage);
+            return new SuccessDataResult<List<Car>>(_cars.GetAll(),Messages.ValidMessage);
         }
 
         public IDataResult<List<CarDetailDto>> GetCarDetails()
         {
-            return new SuccessDataResult<List<CarDetailDto>>(_cars.GetCarDetails(),Messages.InvalidMessage);
+            return new SuccessDataResult<List<CarDetailDto>>(_cars.GetCarDetails(),Messages.ValidMessage);
         }
 
 
