@@ -13,12 +13,49 @@ namespace WebAPI.Controllers
     [ApiController]
     public class UsersController : ControllerBase
     {
-        /*
-        private IUserService _userService;
-
+        IUserService _userService;
         public UsersController(IUserService userService)
         {
             _userService = userService;
+        }
+        [HttpPost("add")]
+        public IActionResult Add(User user)
+        {
+            var result = _userService.Add(user);
+            if (result.Success)
+            {
+                return Ok(result);
+            }
+            else
+            {
+                return BadRequest(result);
+            }
+        }
+        [HttpDelete("delete")]
+        public IActionResult Delete(User user)
+        {
+            var result = _userService.Delete(user);
+            if (result.Success)
+            {
+                return Ok(result);
+            }
+            else
+            {
+                return BadRequest(result);
+            }
+        }
+        [HttpPut("update")]
+        public IActionResult Update(User user)
+        {
+            var result = _userService.Update(user);
+            if (result.Success)
+            {
+                return Ok(result);
+            }
+            else
+            {
+                return BadRequest(result);
+            }
         }
         [HttpGet("getall")]
         public IActionResult GetAll()
@@ -28,45 +65,10 @@ namespace WebAPI.Controllers
             {
                 return Ok(result);
             }
-
-            return BadRequest(result);
-        }
-        
-
-        [HttpPost("add")]
-        public IActionResult Add(User user)
-        {
-            var result = _userService.Add(user);
-            if (result.Success)
+            else
             {
-                return Ok(result);
+                return BadRequest(result);
             }
-
-            return BadRequest(result);
         }
-
-        [HttpGet("delete")]
-        public IActionResult Update(User user)
-        {
-            var result = _userService.Update(user);
-            if (result.Success)
-            {
-                return Ok(result);
-            }
-
-            return BadRequest(result);
-        }
-
-        [HttpPost("delete")]
-        public IActionResult Delete(User user)
-        {
-            var result = _userService.Delete(user);
-            if (result.Success)
-            {
-                return Ok(result);
-            }
-
-            return BadRequest(result);
-        }*/
     }
 }

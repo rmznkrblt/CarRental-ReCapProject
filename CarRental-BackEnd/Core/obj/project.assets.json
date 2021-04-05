@@ -5103,23 +5103,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ramazan\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\rkara\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Core\\Core.csproj",
+      "projectUniqueName": "D:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\CarRental-ReCapProject\\CarRental-BackEnd\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Core\\Core.csproj",
-      "packagesPath": "C:\\Users\\Ramazan\\.nuget\\packages\\",
-      "outputPath": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Core\\obj\\",
+      "projectPath": "D:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\CarRental-ReCapProject\\CarRental-BackEnd\\Core\\Core.csproj",
+      "packagesPath": "C:\\Users\\rkara\\.nuget\\packages\\",
+      "outputPath": "D:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\CarRental-ReCapProject\\CarRental-BackEnd\\Core\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Ramazan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rkara\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5186,7 +5182,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -6495,23 +6495,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ramazan\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\rkara\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "D:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\CarRental-ReCapProject\\CarRental-BackEnd\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\WebAPI\\WebAPI.csproj",
-      "packagesPath": "C:\\Users\\Ramazan\\.nuget\\packages\\",
-      "outputPath": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\WebAPI\\obj\\",
+      "projectPath": "D:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\CarRental-ReCapProject\\CarRental-BackEnd\\WebAPI\\WebAPI.csproj",
+      "packagesPath": "C:\\Users\\rkara\\.nuget\\packages\\",
+      "outputPath": "D:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\CarRental-ReCapProject\\CarRental-BackEnd\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Ramazan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rkara\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6525,11 +6521,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Business\\Business.csproj": {
-              "projectPath": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Business\\Business.csproj"
+            "D:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\CarRental-ReCapProject\\CarRental-BackEnd\\Business\\Business.csproj": {
+              "projectPath": "D:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\CarRental-ReCapProject\\CarRental-BackEnd\\Business\\Business.csproj"
             },
-            "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Entities\\Entities.csproj": {
-              "projectPath": "G:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\Entities\\Entities.csproj"
+            "D:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\CarRental-ReCapProject\\CarRental-BackEnd\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\Project\\c# project\\GitHub\\CarRental-ReCapProject\\CarRental-ReCapProject\\CarRental-BackEnd\\Entities\\Entities.csproj"
             }
           }
         }
@@ -6571,7 +6567,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

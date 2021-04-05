@@ -46,3 +46,15 @@ G:\Project\c# project\GitHub\CampingProjects\10. Hafta\Entities\obj\Debug\netsta
 G:\Project\c# project\GitHub\CampingProjects\10. Hafta\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
 G:\Project\c# project\GitHub\CampingProjects\10. Hafta\Entities\obj\Debug\netstandard2.0\Entities.dll
 G:\Project\c# project\GitHub\CampingProjects\10. Hafta\Entities\obj\Debug\netstandard2.0\Entities.pdb
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\Entities\bin\Debug\netstandard2.0\Entities.dll
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\Entities\bin\Debug\netstandard2.0\Entities.pdb
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\Entities\bin\Debug\netstandard2.0\Core.dll
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\Entities\bin\Debug\netstandard2.0\Core.pdb
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\Entities\obj\Debug\netstandard2.0\Entities.dll
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\Entities\obj\Debug\netstandard2.0\Entities.pdb

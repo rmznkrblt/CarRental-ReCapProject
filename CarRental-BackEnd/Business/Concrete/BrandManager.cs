@@ -6,6 +6,7 @@ using System.Text;
 using Business.Abstract;
 using Business.Constans;
 using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofac.Caching;
 using Core.Aspects.Autofac.Validation;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
@@ -21,6 +22,7 @@ namespace Business.Concrete
         {
             _brand = brand;
         }
+
         [ValidationAspect(typeof(BrandValidator))]
         public IResult Add(Brand brand)
         {
@@ -40,10 +42,16 @@ namespace Business.Concrete
             return new SuccessResult(Messages.ValidMessage);
         }
 
+        [CacheAspect]
         public IDataResult<List<Brand>> GetAll()
         {
             
             return new SuccessDataResult<List<Brand>>(_brand.GetAll(),Messages.ValidMessage);
+        }
+
+        public IDataResult<Brand> GetById(int brandId)
+        {
+            return new SuccessDataResult<Brand>(_brand.Get(p => p.Id == brandId));
         }
     }
 }
