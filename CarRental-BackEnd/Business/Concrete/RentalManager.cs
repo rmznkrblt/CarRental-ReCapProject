@@ -35,7 +35,7 @@ namespace Business.Concrete
         [ValidationAspect(typeof(RentalValidator))]
         public IResult Add(Rental rental)
         {
-            var result = GetRentalDetails().Data.SingleOrDefault(p => p.CarId == rental.CarId);
+            var result = GetRentalDetails().Data.SingleOrDefault(p => p.Id == rental.CarId);
             if (result.ReturnDate != null)
             {
                 _rentalDal.Add(rental);
@@ -53,6 +53,11 @@ namespace Business.Concrete
         {
             _rentalDal.Update(rental);
             return new SuccessResult(Messages.InvalidMessage);
+        }
+
+        public IDataResult<Rental> GetById(int id)
+        {
+            throw new NotImplementedException();
         }
     }
 }

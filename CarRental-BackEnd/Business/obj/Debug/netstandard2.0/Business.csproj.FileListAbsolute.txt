@@ -62,3 +62,19 @@ G:\Project\c# project\GitHub\CampingProjects\10. Hafta\Business\bin\Debug\netsta
 G:\Project\c# project\GitHub\CampingProjects\10. Hafta\Business\bin\Debug\netstandard2.0\Entities.pdb
 G:\Project\c# project\GitHub\CampingProjects\10. Hafta\Business\bin\Debug\netstandard2.0\Core.pdb
 G:\Project\c# project\GitHub\CampingProjects\10. Hafta\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\Business\bin\Debug\netstandard2.0\Business.deps.json
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\Business\bin\Debug\netstandard2.0\Business.dll
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\Business\bin\Debug\netstandard2.0\Business.pdb
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\Business\bin\Debug\netstandard2.0\Core.dll
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\Business\bin\Debug\netstandard2.0\DataAccess.dll
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\Business\bin\Debug\netstandard2.0\Entities.dll
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\Business\bin\Debug\netstandard2.0\Entities.pdb
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\Business\bin\Debug\netstandard2.0\Core.pdb
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\Business\obj\Debug\netstandard2.0\Business.dll
+D:\Project\c# project\GitHub\CarRental-ReCapProject\CarRental-ReCapProject\CarRental-BackEnd\Business\obj\Debug\netstandard2.0\Business.pdb

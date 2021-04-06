@@ -13,6 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "WebAPI\WebAPI.csproj", "{E37C1FAC-3E05-40C0-B0B1-AA7F1DB5DE57}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{4846B928-FFB3-441A-B488-BC3A92A5AF7E}"
+	ProjectSection(SolutionItems) = preProject
+		WebAPI\CarImages\DefaultImage.jpg = WebAPI\CarImages\DefaultImage.jpg
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

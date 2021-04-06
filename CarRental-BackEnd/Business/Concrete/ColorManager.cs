@@ -47,5 +47,10 @@ namespace Business.Concrete
             _color.Update(color);
             return new SuccessResult(Messages.InvalidMessage);
         }
+
+        public IDataResult<Color> GetById(int colorId)
+        {
+            return new SuccessDataResult<Color>(_color.Get(p => p.Id == colorId));
+        }
     }
 }
