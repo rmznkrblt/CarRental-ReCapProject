@@ -1,0 +1,16 @@
+<button *ngIf="dataLoaded==false" class="btn btn-primary" type="button" disabled>
+    <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+    Loading...
+  </button>
+  <table *ngIf="dataLoaded==true" class="table">
+    <thead>
+      <tr>
+        <th>Id</th>
+        <th>Name</th>
+      </tr>
+    </thead>
+      <tr class="table" *ngFor="let color of colors" >
+          <td>{{color.id}}</td>
+          <td>{{color.name}}</td>
+      </tr>
+  </table>

@@ -1,0 +1,7 @@
+<ul class="list-group" >
+  <li [class]="getAllCarDetailClass()" routerLink="/rentals">Bütün Kiralanan Araçlar</li>
+    <li (click)="setCurrentCarDetail(carDetail)" 
+    routerLink ="/rental/cardetail/{{carDetail.carId}}"
+    *ngFor="let carDetail of carDetails" [class]="getCurrentCarDetailClass(carDetail)">{{carDetail.brandName}}</li>
+  </ul>
+  <h5 *ngIf="currentCarDetail">{{currentCarDetail.brandName}} seçtiniz</h5>
