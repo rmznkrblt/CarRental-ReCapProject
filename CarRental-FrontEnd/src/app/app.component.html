@@ -1,10 +1,25 @@
 <div class="container">
-    <app-navi></app-navi>
-<div class="row">
-<div class="col-md-3">
-    <app-car-detail></app-car-detail>
-</div> 
-<div class="col-md-9">
-    <router-outlet></router-outlet>
-</div>
+  <app-navi></app-navi>
+  <div class="row">
+    <div class="col-auto">
+      <div class="btn-group-vertical dropend">
+          <button type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+            Markalar
+          </button>
+        <ul class="dropdown-menu" >
+          <app-brand></app-brand>
+        </ul>
+        <p></p>
+          <button type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+            Renkler
+          </button>
+        <ul class="dropdown-menu" >
+          <app-color></app-color>
+        </ul>
+      </div>
+    </div>
+    <div class="col-md-10">
+      <router-outlet></router-outlet>
+    </div>
+  </div>
 </div>

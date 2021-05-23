@@ -1,1 +1,11 @@
-<p>brand works!</p>
+  <li >
+    <a [class]="getAllBrandClass()" (click)="getBrands()" routerLink="/">Bütün markalar</a>
+  </li>
+  <li> 
+    <hr class="dropdown-divider">
+  </li>
+  <li> 
+    <a (click)="setCurrentBrand(brand)" routerLink ="/car/brand/{{brand.id}}"
+      *ngFor="let brand of brands" [class]="getCurrentBrandClass(brand)">{{brand.name}}
+    </a>
+  </li>

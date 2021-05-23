@@ -12,6 +12,7 @@ export class CarDetailComponent implements OnInit {
   carDetails:CarDetail[]=[];
   currentCarDetail:CarDetail;
   dataLoaded=false;
+  filterText="";
   constructor(private carService:CarService) { }
 
   ngOnInit(): void {

@@ -1,7 +1,32 @@
-<ul class="list-group" >
-  <li [class]="getAllCarDetailClass()" routerLink="/rentals">Bütün Kiralanan Araçlar</li>
-    <li (click)="setCurrentCarDetail(carDetail)" 
-    routerLink ="/rental/cardetail/{{carDetail.carId}}"
-    *ngFor="let carDetail of carDetails" [class]="getCurrentCarDetailClass(carDetail)">{{carDetail.brandName}}</li>
-  </ul>
-  <h5 *ngIf="currentCarDetail">{{currentCarDetail.brandName}} seçtiniz</h5>
+<button *ngIf="dataLoaded==false" class="btn btn-primary" type="button" disabled>
+  <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+  Loading...
+</button>
+
+<!-- <div class="mb-3">
+  <label for="filterText" class="form-label">Araba ara</label>
+  <input type="text" [(ngModel)]="filterText" class="form-control" id="filterText" placeholder="Arama ifadesini giriniz">
+</div>
+<div *ngIf="filterText.lenght>2" class="alert alert-success">
+  {{filterText}} aradnız
+</div> -->
+
+<div *ngIf="dataLoaded==true" class="row row-cols-1 row-cols-md-2 g-4">
+  
+  <div class="col" *ngFor="let carDetail of carDetails | filterPipe:filterText" >
+    <div class="card">
+      <img
+        src="https://mdbootstrap.com/img/new/standard/city/041.jpg"
+        class="card-img-top"
+        alt="..."
+      />
+      <div class="card-body">
+        <h5 class="card-title">{{carDetail.brandName |uppercase}}</h5>
+        <p class="card-text">
+          {{carDetail.description}}
+        </p>
+        <a href="#" class="btn btn-primary" >Detay</a>
+      </div>
+    </div>
+  </div>
+</div>

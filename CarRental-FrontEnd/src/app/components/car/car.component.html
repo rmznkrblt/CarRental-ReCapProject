@@ -1,1 +1,56 @@
-<p>car works!</p>
+<button *ngIf="dataLoaded==false" class="btn btn-primary" type="button" disabled>
+  <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+  Loading...
+</button>
+
+<div *ngIf="currentComponent=='color'">
+<div *ngIf="dataLoaded==true" class="row row-cols-1 row-cols-md-2 g-4">
+
+  <div class="col" *ngFor="let car of cars">
+    <div class="card">
+      <img
+        src="https://mdbootstrap.com/img/new/standard/city/041.jpg"
+        class="card-img-top"
+        alt="..."
+      />
+      <div class="card-body">
+        <h5 class="card-title">Color Id :{{car.colorId}}</h5>
+        <p class="card-text">
+          Açıklama :{{car.description}}
+        </p>
+        <div class="btn-group">
+        <button (click)="addToCart(car)" type="button" class="btn btn-primary">Aracın Detayı</button>
+        <pre> </pre>
+        <button (click)="addToCart(car)" type="button" class="btn btn-primary">Kirala</button> </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+<div *ngIf="currentComponent=='brand'">
+  <div *ngIf="dataLoaded==true" class="row row-cols-1 row-cols-md-2 g-4">
+  
+    <div class="col" *ngFor="let car of cars" >
+      <div class="card">
+        <img
+          src="https://mdbootstrap.com/img/new/standard/city/041.jpg"
+          class="card-img-top"
+          alt="..."
+        />
+        <div class="card-body">
+          <h5 class="card-title">Brand Id :{{car.brandId}}</h5>
+          <p class="card-text">
+            Açıklama {{car.description}}
+          </p>
+          <div class="btn-group">
+          <button (click)="addToCart(car)" type="button" class="btn btn-primary">Aracın Detayı</button>
+          <pre> </pre>
+          <button (click)="addToCart(car)" type="button" class="btn btn-primary">Kirala</button> 
+        </div>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div> 

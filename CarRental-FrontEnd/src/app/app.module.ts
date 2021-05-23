@@ -13,7 +13,9 @@ import { CategoryComponent } from './components/category/category.component';
 import { NaviComponent } from './components/navi/navi.component';
 import { CarDetailComponent } from './components/car-detail/car-detail.component';
 import { VatAddedPipe } from './pipes/vat-added.pipe';
-
+import { ColorDetailComponent } from './components/color-detail/color-detail.component';
+import { BrandDetailComponent } from './components/brand-detail/brand-detail.component';
+import { FilterPipePipe } from './pipes/filter-pipe.pipe';
 @NgModule({
   declarations: [
     AppComponent,
@@ -25,7 +27,10 @@ import { VatAddedPipe } from './pipes/vat-added.pipe';
     CategoryComponent,
     NaviComponent,
     CarDetailComponent,
-    VatAddedPipe
+    VatAddedPipe,
+    ColorDetailComponent,
+    BrandDetailComponent,
+    FilterPipePipe
   ],
   imports: [
     BrowserModule,
