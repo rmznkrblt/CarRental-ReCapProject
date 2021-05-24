@@ -11,7 +11,7 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/animations": "~11.2.13",
+    "@angular/animations": "^11.2.14",
     "@angular/common": "~11.2.13",
     "@angular/compiler": "~11.2.13",
     "@angular/core": "~11.2.13",
@@ -26,6 +26,7 @@
     "ngx-toastr": "^13.2.1",
     "popper.js": "^1.16.1",
     "rxjs": "~6.6.0",
+    "tooltip.js": "^1.3.3",
     "tslib": "^2.0.0",
     "zone.js": "~0.11.3"
   },

@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { CarDetail } from 'src/app/models/carDetail';
 
 @Component({
   selector: 'app-navi',
@@ -7,6 +8,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class NaviComponent implements OnInit {
 
+  carDetail:CarDetail[]=[];
+  filterText="";
   constructor() { }
 
   ngOnInit(): void {

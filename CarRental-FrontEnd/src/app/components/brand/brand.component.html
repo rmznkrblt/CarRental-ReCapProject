@@ -6,6 +6,6 @@
   </li>
   <li> 
     <a (click)="setCurrentBrand(brand)" routerLink ="/car/brand/{{brand.id}}"
-      *ngFor="let brand of brands" [class]="getCurrentBrandClass(brand)">{{brand.name}}
+      *ngFor="let brand of brands | filterPipe:filterText" [class]="getCurrentBrandClass(brand)">{{brand.name | uppercase}}
     </a>
   </li>

@@ -28,9 +28,16 @@
           </li>
         </ul>
         <form class="d-flex">
-          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-          <button class="btn btn-outline-success" type="submit">Search</button>
+          <input class="form-control me-2" type="search" id = "filterText" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success" for="filterText" type="submit">Search</button>
         </form>
       </div>
     </div>
   </nav>
+  <div class="mb-3">
+    <label for="filterText" class="form-label">Ürün ara</label>
+    <input type="text" [(ngModel)]="filterText" class="form-control" id="filterText">
+  </div>
+  <div *ngIf="filterText.length>1" class="alert alert-success">
+    {{filterText}} aradınız.
+  </div>
